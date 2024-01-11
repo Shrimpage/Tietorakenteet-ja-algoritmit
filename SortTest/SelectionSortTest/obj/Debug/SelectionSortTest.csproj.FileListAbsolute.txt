@@ -1,0 +1,45 @@
+Y:\Makela_Petteri\Ohjelmistosuunnittelu\Tietorakenteet ja algoritmit\Harjoitystyö - Järjestämisalgoritmit\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe.config
+Y:\Makela_Petteri\Ohjelmistosuunnittelu\Tietorakenteet ja algoritmit\Harjoitystyö - Järjestämisalgoritmit\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe
+Y:\Makela_Petteri\Ohjelmistosuunnittelu\Tietorakenteet ja algoritmit\Harjoitystyö - Järjestämisalgoritmit\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.pdb
+Y:\Makela_Petteri\Ohjelmistosuunnittelu\Tietorakenteet ja algoritmit\Harjoitystyö - Järjestämisalgoritmit\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csprojAssemblyReference.cache
+Y:\Makela_Petteri\Ohjelmistosuunnittelu\Tietorakenteet ja algoritmit\Harjoitystyö - Järjestämisalgoritmit\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.CoreCompileInputs.cache
+Y:\Makela_Petteri\Ohjelmistosuunnittelu\Tietorakenteet ja algoritmit\Harjoitystyö - Järjestämisalgoritmit\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.exe
+Y:\Makela_Petteri\Ohjelmistosuunnittelu\Tietorakenteet ja algoritmit\Harjoitystyö - Järjestämisalgoritmit\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.pdb
+Y:\Makela_Petteri\OHSU21\Tietorakenteet ja algoritmit\Harjoitustyö-järjestämisalgoritmit\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe.config
+Y:\Makela_Petteri\OHSU21\Tietorakenteet ja algoritmit\Harjoitustyö-järjestämisalgoritmit\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe
+Y:\Makela_Petteri\OHSU21\Tietorakenteet ja algoritmit\Harjoitustyö-järjestämisalgoritmit\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.pdb
+Y:\Makela_Petteri\OHSU21\Tietorakenteet ja algoritmit\Harjoitustyö-järjestämisalgoritmit\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.AssemblyReference.cache
+Y:\Makela_Petteri\OHSU21\Tietorakenteet ja algoritmit\Harjoitustyö-järjestämisalgoritmit\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.CoreCompileInputs.cache
+Y:\Makela_Petteri\OHSU21\Tietorakenteet ja algoritmit\Harjoitustyö-järjestämisalgoritmit\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.exe
+Y:\Makela_Petteri\OHSU21\Tietorakenteet ja algoritmit\Harjoitustyö-järjestämisalgoritmit\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.pdb
+Y:\Makela_Petteri\TITE21\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe.config
+Y:\Makela_Petteri\TITE21\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe
+Y:\Makela_Petteri\TITE21\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.pdb
+Y:\Makela_Petteri\TITE21\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.CoreCompileInputs.cache
+Y:\Makela_Petteri\TITE21\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.exe
+Y:\Makela_Petteri\TITE21\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.pdb
+Y:\Makela_Petteri\TITE21\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.AssemblyReference.cache
+Y:\Makela_Petteri\TITE21\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.SuggestedBindingRedirects.cache
+M:\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe.config
+M:\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe
+M:\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.pdb
+M:\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.AssemblyReference.cache
+M:\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.SuggestedBindingRedirects.cache
+M:\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.CoreCompileInputs.cache
+M:\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.exe
+M:\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.pdb
+C:\Users\Jukkis\Desktop\Vuosi2\OneDrive_2022-09-16\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe.config
+C:\Users\Jukkis\Desktop\Vuosi2\OneDrive_2022-09-16\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe
+C:\Users\Jukkis\Desktop\Vuosi2\OneDrive_2022-09-16\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.pdb
+C:\Users\Jukkis\Desktop\Vuosi2\OneDrive_2022-09-16\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.AssemblyReference.cache
+C:\Users\Jukkis\Desktop\Vuosi2\OneDrive_2022-09-16\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jukkis\Desktop\Vuosi2\OneDrive_2022-09-16\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.CoreCompileInputs.cache
+C:\Users\Jukkis\Desktop\Vuosi2\OneDrive_2022-09-16\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.exe
+C:\Users\Jukkis\Desktop\Vuosi2\OneDrive_2022-09-16\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.pdb
+D:\SEAMK\Vuosi 2\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe.config
+D:\SEAMK\Vuosi 2\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.exe
+D:\SEAMK\Vuosi 2\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\bin\Debug\SelectionSortTest.pdb
+D:\SEAMK\Vuosi 2\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.AssemblyReference.cache
+D:\SEAMK\Vuosi 2\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.csproj.CoreCompileInputs.cache
+D:\SEAMK\Vuosi 2\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.exe
+D:\SEAMK\Vuosi 2\Tietorakenteet ja algoritmit\Harjoitustyö 1 - Sort\SortTest\SelectionSortTest\obj\Debug\SelectionSortTest.pdb
